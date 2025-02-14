@@ -45,6 +45,11 @@ To run this project locally:
    - Simply open the file in your web browser by double-clicking it, or
    - Use a live server extension in your code editor for a better development experience.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/52199215-a4a6-4262-8d39-e11750e052d4)
+
+
 ## Customization
 
 Feel free to modify the code to better fit your needs. You can update the profile details, adjust the styling in the CSS, or add new features as desired.
