@@ -22,7 +22,7 @@ This project was assigned by the E-Cell Club of SRM Institute of Science and Tec
 ## Live Demo
 
 Check out the live demo on GitHub Pages:  
-[Live Demo](https://krishnakeshab-banik.github.io/ecell_profilecard/)
+[Live Demo](https://krishnakeshab-banik.github.io/ProfileCard-ECELL/)
 
 ## Installation
 
